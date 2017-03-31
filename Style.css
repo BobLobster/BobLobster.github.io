@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: mediumspringgreen;
+}
+
+h1 {
+	color:red;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+
+p {
+	font-family:  Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
